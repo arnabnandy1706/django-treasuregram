@@ -1,2 +1,4 @@
-# django-treasuregram
-TreasureGram App build in Django Python3 framework.
+# docker-djangoapp
+
+This is a sample django web app as an example.
+# django-docker
